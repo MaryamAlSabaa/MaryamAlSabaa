@@ -19,6 +19,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 
+My name is Maryam, I am a certified artificial intelligence practitioner and computer scientist. 
 
 <h3 align="left"> Interests</h3>
 <ul>
