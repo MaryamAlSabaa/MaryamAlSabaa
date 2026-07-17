@@ -31,9 +31,9 @@ I'm Maryam, a Certified Artificial Intelligence Practitioner and Computer Scient
 
 <h3 align="left"> Interests</h3>
 <ul>
-  <p>🤖 Exploring Reinforcement Learning techniques for Cybersecurity</p>
-  <p>📝 Researching and fine-tuning Arabic Large Language Models</p>
-  <p>💻 Building interactive Full Stack web applications</p>
+  <li>🤖 Exploring Reinforcement Learning techniques for Cybersecurity</p>
+  <li>📝 Researching and fine-tuning Arabic Large Language Models</p>
+  <li>💻 Building interactive Full Stack web applications</p>
   <li>🌐 Designing AI-native user experiences and developer tools</li>
 </ul>
 
