@@ -17,83 +17,96 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi, I'm Maryam Al Sabh👋</h1>
 
-I'm Maryam, a Certified Artificial Intelligence Practitioner and Computer Scientist passionate about building intelligent software that combines AI with modern web technologies.
+**Academic Business & Technical Analyst | Applied AI & Software Engineering**
 
-<h3 align="left">🚀 What I'm Building</h3>
+Computer Science graduate from Khalifa University working at the intersection of
+**Applied AI, software development, data, and technical product delivery**.
 
-<ul>
-  <li>🤖 Building <strong>AI-powered full-stack web applications</strong></li>
-  <li>🧠 Developing practical AI solutions using <strong>Large Language Models (LLMs)</strong></li>
-  <li>⚡ Creating scalable, user-focused applications with modern web technologies</li>
-</ul>
+I translate business requirements and BRDs into functional **proofs of concept (POCs)**,
+then help evolve validated concepts into real platforms through backend development,
+data integration, APIs, AI capabilities, testing, and stakeholder-driven iteration.
 
-<h3 align="left"> Interests</h3>
-<ul>
-  <li>🤖 Exploring Reinforcement Learning techniques for Cybersecurity</p>
-  <li>📝 Researching and fine-tuning Arabic Large Language Models</p>
-  <li>💻 Building interactive Full Stack web applications</p>
-  <li>🌐 Designing AI-native user experiences and developer tools</li>
-</ul>
+My work spans university platforms, AI-enabled applications, analytics dashboards,
+and research-oriented projects across LLMs, machine learning, computer vision,
+reinforcement learning, and assistive AI.
+
+## What I Work On
+
+- **POC → Platform Development** — translating BRDs and stakeholder requirements
+  into functional prototypes and operational platforms.
+
+- **Applied AI & LLM Applications** — integrating LLM capabilities into
+  real-world applications, including document analysis, conversational systems,
+  structured AI outputs, and decision-support workflows.
+
+- **Systems & API Integration** — connecting applications with databases,
+  APIs, enterprise systems, and external services.
+
+- **Data & Product Analytics** — working with MySQL/PostgreSQL data,
+  defining KPIs, and developing dashboards for product and operational insights.
+
+- **AI/ML Research & Projects** — experience across agentic LLM research,
+  reinforcement learning, NLP, computer vision, EEG-based ML, and multilingual AI.
+  
+###
+
+## Applied AI
+
+I'm particularly interested in turning AI capabilities into practical systems rather
+than treating models in isolation.
+
+My experience includes:
+
+- LLM-powered application features and structured model outputs
+- AI-assisted document analysis and decision-support workflows
+- Conversational and chatbot-style applications
+- Multilingual and Arabic AI applications
+- Computer vision and real-time recognition systems
+- Reinforcement learning research
+- Exploratory research into agentic LLM systems and reasoning approaches
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+## Research
 
-<h4>Languages</h4>
+My research experience includes work across **agentic LLMs, reinforcement learning,
+EEG-based machine learning, device-to-device communication, and AI security**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+###
 
-<h4>Web Development</h4>
+### Publication
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Speech Synthesis from EEG Signals Using Machine Learning Techniques**  
+3rd International Conference on Cyber Resilience (ICCR), IEEE, 2025
 
-<h4>Backend & APIs</h4>
+The work explored EEG-based inner-speech decoding for assistive communication,
+including dataset development, signal-driven classification, and machine-learning
+experimentation.
 
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+###
 
-<h4>Databases</h4>
+## Technical Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Languages**  
+Python · JavaScript · TypeScript · Java · SQL
 
-<h4>Cloud & Deployment</h4>
+**Backend & APIs**  
+FastAPI · Node.js · Express.js · Flask · REST APIs · Postman
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**Frontend**  
+React · Vite · HTML/CSS · Tailwind CSS
 
-<h4>Tools</h4>
+**Databases & Data**  
+PostgreSQL · MySQL · Supabase · pandas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**AI & Machine Learning**  
+Large Language Models (LLMs) · Generative AI · Machine Learning · NLP ·
+Computer Vision · Reinforcement Learning · TensorFlow · YOLO
 
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
+**Tools & Deployment**  
+Git · GitHub · Docker · Vercel · Railway
 
 ###
 
