@@ -15,16 +15,8 @@
 
 **Academic Business & Technical Analyst | Applied AI & Software Engineering**
 
-Computer Science graduate from Khalifa University working at the intersection of
+I work at the intersection of
 **Applied AI, software development, data, and technical product delivery**.
-
-I translate business requirements and BRDs into functional **proofs of concept (POCs)**,
-then help evolve validated concepts into real platforms through backend development,
-data integration, APIs, AI capabilities, testing, and stakeholder-driven iteration.
-
-My work spans university platforms, AI-enabled applications, analytics dashboards,
-and research-oriented projects across LLMs, machine learning, computer vision,
-reinforcement learning, and assistive AI.
 
 ## What I Work On
 
@@ -60,24 +52,6 @@ My experience includes:
 - Computer vision and real-time recognition systems
 - Reinforcement learning research
 - Exploratory research into agentic LLM systems and reasoning approaches
-
-###
-
-## Research
-
-My research experience includes work across **agentic LLMs, reinforcement learning,
-EEG-based machine learning, device-to-device communication, and AI security**.
-
-###
-
-### Publication
-
-**Speech Synthesis from EEG Signals Using Machine Learning Techniques**  
-3rd International Conference on Cyber Resilience (ICCR), IEEE, 2025
-
-The work explored EEG-based inner-speech decoding for assistive communication,
-including dataset development, signal-driven classification, and machine-learning
-experimentation.
 
 ###
 
